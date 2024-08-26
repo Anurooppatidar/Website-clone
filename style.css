@@ -159,7 +159,7 @@
             min-height: 500px;
             height: auto;
             width: 1000px;
-/*            background: #ccc;*/
+    /*      background: #ccc;     comment */
          }
          .card
          {
@@ -182,7 +182,7 @@
             font-weight: bold;
             font-size: 22px;
             background: #ab183d;
-
+  
 
          }
          .card-body
